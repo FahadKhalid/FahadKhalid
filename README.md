@@ -43,4 +43,4 @@ Kotlin Multiplatform repository is building...
 
 Feel free to explore my repositories or reach out if you have any questions or would like to discuss my work further.
 
-**LinkedIn:** [[Click](https://www.linkedin.com/in/iammfahad/)]
+**[LinkedIn](https://www.linkedin.com/in/iammfahad/)**
