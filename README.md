@@ -31,7 +31,7 @@ Kotlin Multiplatform repository is building...
 
 * **Android Development:** Kotlin (Fluent), Jetpack Compose, MVVM, MVI, Coroutines, Flows, Android Jetpack (ViewModel, Room, WorkManager, Navigation), KMM.
 * **Software Engineering:** Clean Architecture, SOLID Principles, Design Patterns, Test-Driven Development (TDD), Unit Testing, UI Testing.
-* **Performance & Stability:** Identifying and resolving performance bottlenecks (UI jank, battery drain), memory management, crash monitoring, data-driven optimization.
+* **Performance & Stability:** Identifying and resolving performance bottlenecks, memory management, crash monitoring, and data-driven optimization.
 * **Collaboration:** Working with Product, Design, and other engineering teams.
 * **Production Operations:** Shipping app updates, monitoring health, debugging live issues.
 * **User-Centric Design:** Passion for identifying user problems and building impactful, scalable solutions.
