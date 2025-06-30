@@ -21,7 +21,7 @@ A project focusing on displaying and managing brochure content. This showcases m
 #### 3. **[GraphQL](https://github.com/FahadKhalid/GraphQL)**
 This project explores integration with GraphQL APIs on Android. It highlights experience with a modern API paradigm, often used for complex data querying and reducing over-fetching, which can be beneficial for performance.
 **Key Tech:** Kotlin, GraphQL client (e.g., Apollo), API Integration, Data Structures.
-**Relevance to Role:** Shows adaptability to modern backend communication protocols and an understanding of efficient data fetching, relevant for complex real-time data needs in a large-scale system.
+**Relevance to Role:** Demonstrates adaptability to modern backend communication protocols and an understanding of efficient data fetching, essential for meeting complex real-time data needs in a large-scale system.
 
 Kotlin Multiplatform repository is building...
 
@@ -31,7 +31,7 @@ Kotlin Multiplatform repository is building...
 
 * **Android Development:** Kotlin (Fluent), Jetpack Compose, MVVM, MVI, Coroutines, Flows, Android Jetpack (ViewModel, Room, WorkManager, Navigation), KMM.
 * **Software Engineering:** Clean Architecture, SOLID Principles, Design Patterns, Test-Driven Development (TDD), Unit Testing, UI Testing.
-* **Performance & Stability:** Identifying and resolving performance bottlenecks, memory management, crash monitoring, and data-driven optimization.
+* **Performance & Stability:** Identifying and resolving performance bottlenecks, optimizing memory management, monitoring crashes, and implementing data-driven optimizations.
 * **Collaboration:** Working with Product, Design, and other engineering teams.
 * **Production Operations:** Shipping app updates, monitoring health, debugging live issues.
 * **User-Centric Design:** Passion for identifying user problems and building impactful, scalable solutions.
